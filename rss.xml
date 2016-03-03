@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[heyda.nl]]></title>
+        <description><![CDATA[heyda.nl]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 20:28:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[test Titel]]></title>
+            <description><![CDATA[<article><h1>test Titel</h1><p>testpagina </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df78cb27abf5691e75eab284ce09b89b000cdf83.jpg"></article>]]></description>
+            <link>undefinedtest-titel/index.html</link>
+            <guid isPermaLink="false">619582c2-f15d-448b-b7f1-51cd9c410797</guid>
+            <pubDate>Thu, 03 Mar 2016 20:28:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
